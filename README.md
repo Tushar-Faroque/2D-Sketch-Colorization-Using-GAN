@@ -15,3 +15,10 @@ You need to install
 tensorflow
 matplotlib
 ```
+
+### Dataset
+
+We have used [Anime Sketch Colorization Pair](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair) form Kaggle. It has a total of 17.8K images, with 14.2K train and 3.5K test split. 
+Each image is divided into two parts; the black and white sketch and the colored version of that sketch 
+
+

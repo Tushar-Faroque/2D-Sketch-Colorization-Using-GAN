@@ -1,4 +1,4 @@
-### These are the result we get after traning
+### These are the results we got after traning
 <img src="download (15).png" width="500px"/> 
 <img src="download (16d) (1).png" width="500px"/> 
 <img src="download (16d) (2).png" width="500px"/> 
